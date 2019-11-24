@@ -22,3 +22,6 @@ chemical data compilations on the English Wikipedia <http://en.wikipedia.org/>.
 
 Originally derived from GPeriodic version 2.0.8, copyright (C) 2003 Jonas Frantz
 <jonas.frantz@welho.com> and others.
+
+
+![Screenshot](https://screenshots.debian.net/screenshots/000/016/660/large.png)

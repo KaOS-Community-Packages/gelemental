@@ -1,5 +1,5 @@
 pkgname=gelemental
-pkgver=2.0.0
+pkgver=2.0.1
 pkgrel=1
 pkgdesc="gElemental is a periodic table viewer that provides detailed information on the chemical elements"
 arch=('x86_64')
@@ -9,7 +9,7 @@ depends=('gtkmm' 'gdk-pixbuf2')
 makedepends=('gawk' 'make' 'gettext' 'libtool' 'pkg-config' 'intltool' 'perl>=5.8.1')
 makeoptdepends=('doxygen')
 source=(${pkgname}-${pkgver}.tar.gz::https://github.com/ginggs/${pkgname}/archive/v${pkgver}.tar.gz)
-md5sums=('8d38d7599b0f2fc96e2bd622cd762b9a')
+md5sums=('3a44c8ff878ec3436343299608a31a26')
 
 build() {
   cd ${srcdir}/${pkgname}-${pkgver}
